@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Scanner;
 
-public class DezValoresCollection {
+public class DezNumeros {
 	public static void main(String[] args) {
 
 		Scanner leia = new Scanner(System.in);
